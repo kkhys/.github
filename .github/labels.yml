@@ -11,19 +11,19 @@
 # Type (Conventional Commits)
 - name: "type: feat"
   description: "A new feature"
-  color: "#d4f4dd"
+  color: "#d6e8ff"
 
 - name: "type: fix"
   description: "A bug fix"
-  color: "#ffd8d8"
+  color: "#d6e8ff"
 
 - name: "type: perf"
   description: "A change that improves performance"
-  color: "#ffe6cc"
+  color: "#d6e8ff"
 
 - name: "type: refactor"
   description: "A change that neither fixes a bug nor adds a feature"
-  color: "#fdf0c2"
+  color: "#d6e8ff"
 
 - name: "type: docs"
   description: "Documentation only changes"
@@ -31,32 +31,32 @@
 
 - name: "type: test"
   description: "Adding or correcting tests"
-  color: "#d2f0ee"
+  color: "#d6e8ff"
 
 - name: "type: style"
   description: "Formatting changes that do not affect code behavior"
-  color: "#fcdcef"
+  color: "#d6e8ff"
 
 - name: "type: build"
   description: "Changes to the build system or dependencies"
-  color: "#e6dcc9"
+  color: "#d6e8ff"
 
 - name: "type: ci"
   description: "Changes to CI configuration and workflows"
-  color: "#dde6f0"
+  color: "#d6e8ff"
 
 - name: "type: chore"
   description: "Maintenance tasks that do not fit other types"
-  color: "#e8e8ec"
+  color: "#d6e8ff"
 
 - name: "type: revert"
   description: "Reverts a previous commit"
-  color: "#f0cccc"
+  color: "#d6e8ff"
 
 # Type (automated)
 - name: "type: bump-version"
   description: "Dependency version updates (Renovate)"
-  color: "#f2edfc"
+  color: "#d6e8ff"
 
 # CI Control
 - name: "skip-ci"
