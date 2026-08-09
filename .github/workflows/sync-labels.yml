@@ -23,3 +23,4 @@ jobs:
         with:
           # Keep this repository an exact mirror of the base label set.
           prune: true
+          gh-labeler-version: "1.1.0"
